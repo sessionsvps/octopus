@@ -57,7 +57,7 @@ async def logUserBot():
             
         try:
             for i in groups_info:
-                if i['group_name'] not in ["Spam","Grupos","CURSO COCKIES","Grupos y Canales de Compra/Venta VIP","INFINITY CHECKER","REFERENCIAS Shortnamekae🇵🇪","RESPALyaDO🇵🇪BINS PERU","➳𝒀𝑨𝑷𝑬 𝑫𝑬 𝑬𝑺𝑻𝑨𝑭𝑨𝑫𝑶𝑹𝑬𝑺 ✧","QUEMANDO ESTAFADORES","𝐏𝐄𝐑Ú 𝐀𝐘𝐔𝐃𝐀","Referencias Elmer 💸","🎭 CANAL MUNDO STREAMING PERÚ 🇵🇪","TU MARKETPLACE"]:
+                if i['group_name'] not in ["Spam","Grupos","🅜🅐🅡🅚🅔🅣 🅢🅟🅘🅓🅔🅡🅜🅐🅝","BINS PERU🇵🇪","NO PUBLICIDAD","CURSO COCKIES","Grupos y Canales de Compra/Venta VIP","INFINITY CHECKER","REFERENCIAS Shortnamekae🇵🇪","RESPALyaDO🇵🇪BINS PERU","➳𝒀𝑨𝑷𝑬 𝑫𝑬 𝑬𝑺𝑻𝑨𝑭𝑨𝑫𝑶𝑹𝑬𝑺 ✧","QUEMANDO ESTAFADORES","𝐏𝐄𝐑Ú 𝐀𝐘𝐔𝐃𝐀","Referencias Elmer 💸","🎭 CANAL MUNDO STREAMING PERÚ 🇵🇪","TU MARKETPLACE"]:
                     j=0
                     for message_spam in messages_list:
                         j+=1
